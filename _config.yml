@@ -1,0 +1,11 @@
+title: Design 117
+
+header_pages:
+  - index.md
+  - html.md
+  - css.md
+
+theme: minima
+
+optional_front_matter:
+  remove_originals: true
